@@ -1,0 +1,71 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+::selection {
+	background: hsla(207, 95%, 69%, 1);
+}
+
+html, body {
+	background: linear-gradient(to bottom, #6e529d 0%,#d97b93 100%);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+body {
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+}
+
+.bubblery-color {
+	color: #80bfff !important;
+}
+
+
+.nav-link:hover {
+	font-weight: bold;
+}
+
+.dropdown-item:hover {
+	background-color: #80bfff;
+}
+
+.main-container {
+	background-color: hsla(29, 21%, 88%, 0.6);
+	/*background: url('https://omnivorescookbook.com/wp-content/uploads/2017/06/1705_Bubble-Tea_004.jpg') no-repeat center center fixed;*/
+	width: 85%;
+	border-radius: 20px;
+	opacity: .5;
+	margin: auto;
+	flex: 1;
+}
+
+#navMenu a {
+	color: #80bfff !important;
+}
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+.box {
+	position: relative;
+	background-color: black;
+	height: 100%;
+	color: white;
+	font-weight: bold;
+}
+
+.container-test {
+	position: relative;
+	padding: 20px;
+	height: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin: 50px 0 20px 0;
+}

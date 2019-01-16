@@ -1,0 +1,15 @@
+Web development
+- TheNewBoston
+	- https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw
+- Learn CSS Layout
+	- http://learnlayout.com/
+- CSS Tricks
+	- https://css-tricks.com/
+- front end deveoper handbook
+	- https://frontendmasters.com/books/front-end-handbook/2018/
+
+
+Book
+- Exercise for Programmers (Brian Hogan)
+	- http://www.r-5.org/files/books/computers/overviews/cs-tools/Brian_Hogan-Exercises_for_Programmers-EN.pdf
+

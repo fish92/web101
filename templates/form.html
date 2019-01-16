@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block textbody %}
+	hello!
+
+	<form action="{{ url_for('hello') }}" method="post">
+		<input type="text" name="name" placeholder="Enter Your Name">
+		<button>submit</button>
+	</form>
+ 
+{% endblock %}

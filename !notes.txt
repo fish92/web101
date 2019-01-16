@@ -1,0 +1,27 @@
+3 Jan 2019
+- Create html nav bar
+
+4 Jan 2019
+- Issue:
+	- Dropdown button on the nav bar farright exceeded the width of the window
+- Lesson learnt
+	- Pip freeze
+		- create a list of pacakages/dependencies and save to requirement.txt
+		- requirement.txt can be used to install all the packages listed in the new virtual environment
+		- https://websauna.org/docs/tutorials/deployment/freeze.html
+	- CSS Padding and margin
+		- https://www.youtube.com/watch?v=Xtx6Mz361G0
+	- CSS dropdown menu
+		- using CSS right/left to position the dropdown menu fixes the problem of dropdown menu going out of screen
+	- CSS gradient
+		- https://css-tricks.com/css3-gradients/
+- To Do List
+	- Web scrapping
+		- Learn how to scrape the web
+		- https://medium.com/the-andela-way/learn-how-to-scrape-the-web-2a7cc488e017
+
+5 Jan 2019
+- Lesson Learnt
+	- CSS position
+		- Position: absolute/relative
+
